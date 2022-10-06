@@ -34,122 +34,126 @@
 .grid-calculator input {
     padding: 10px;
     text-align: right;
-    font-size: 30px;
+    font-size: 50px;
 }
 
-.display {
+.grid-calculator button {
+    font-size: 15px;
+}
+
+#display {
     grid-area: display;
 }
 
-.ms {
+#ms {
     grid-area: ms;
 }
 
-.mc {
+#mc {
     grid-area: mc;
 }
 
-.mr {
+#mr {
     grid-area: mr;
 }
 
-.mplus {
+#mplus {
     grid-area: mplus;
 }
 
-.plus {
+#plus {
     grid-area: plus;
 }
 
-.mminus {
+#mminus {
     grid-area: mminus;
 }
 
-.clear {
+#clear {
     grid-area: clear;
 }
 
-.allclear {
+#allclear {
     grid-area: allclear;
 }
 
-.oneclear {
+#oneclear {
     grid-area: oneclear;
 }
 
-.rvt {
+#rvt {
     grid-area: rvt;
 }
 
-.devide {
+#devide {
     grid-area: devide;
 }
 
-.openbracket {
+#openbracket {
     grid-area: openbracket;
 }
 
-.closebracket {
+#closebracket {
     grid-area: closebracket;
 }
 
-.multiply {
+#multiply {
     grid-area: multiply;
 }
 
-.minus {
+#minus {
     grid-area: minus;
 }
 
-.equal {
+#equal {
     grid-area: equal;
 }
 
-.dot {
+#dot {
     grid-area: dot;
 }
 
-.negative {
+#negative {
     grid-area: negative;
 }
 
-.one {
+#one {
     grid-area: one;
 }
 
-.two {
+#two {
     grid-area: two;
 }
 
-.three {
+#three {
     grid-area: three;
 }
 
-.four {
+#four {
     grid-area: four;
 }
 
-.five {
+#five {
     grid-area: five;
 }
 
-.six {
+#six {
     grid-area: six;
 }
 
-.seven {
+#seven {
     grid-area: seven;
 }
 
-.eight {
+#eight {
     grid-area: eight;
 }
 
-.nine {
+#nine {
     grid-area: nine;
 }
 
-.zero {
+#zero {
     grid-area: zero;
 }
 
